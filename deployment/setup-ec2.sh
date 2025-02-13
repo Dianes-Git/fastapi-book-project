@@ -26,3 +26,5 @@ sudo usermod -aG docker $USER
 
 # Create docker network
 docker network create fastapi-network
+
+# Create 
